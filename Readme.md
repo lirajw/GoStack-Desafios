@@ -48,6 +48,6 @@ As seguintes ferramentas foram usadas na construção dos projetos:
 
 <br>
 
-## Licença 
+## 📄 Licença 
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
