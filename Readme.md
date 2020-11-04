@@ -17,7 +17,7 @@ ___
 <h3 align="center">
   <a href="#information_source-sobre">Sobre</a> |
   <a href="#book-desafios">Desafios</a> |
-  <a href="#Tecnologias-utilizadas">Tecnologias</a> |
+  <a href="#Tecnologias">Tecnologias</a> |
   <a href="#licença">Licença</a>
 </h3>
 
