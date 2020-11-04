@@ -15,9 +15,9 @@
 ___
 
 <h3 align="center">
-  <a href="#information_source-sobre">Sobre</a>&nbsp;|&nbsp;
-  <a href="#book-desafios">Desafios</a>&nbsp;|&nbsp;
-  <a href="#rocket-tecnologias-frameworks-dependencias">Tecnologias</a>&nbsp;|&nbsp;
+  <a href="#information_source-sobre">Sobre</a> |
+  <a href="#book-desafios">Desafios</a> |
+  <a href="#Tecnologias-utilizadas">Tecnologias</a> |
   <a href="#licença">Licença</a>
 </h3>
 
@@ -34,6 +34,17 @@ Projetos desenvolvidos com a finalidade de fixar o conteudo apresentado durante 
 - [Desafio 01 - Conceitos de Node.js](https://github.com/lirajw/desafio-conceitos-nodejs.git)
 
 
+
+<br>
+
+## 🚀 Tecnologias
+
+As seguintes ferramentas foram usadas na construção dos projetos:
+
+- [Node.js](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
+- [React Native](https://reactnative.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
 
 <br>
 
